@@ -1,0 +1,1 @@
+-e git+https://github.com/rkulyn/guesstheword-core#egg=Guess The Word game core
